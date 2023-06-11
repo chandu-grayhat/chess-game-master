@@ -1,1 +1,1 @@
-# chess-game-master
+# AI Based Chessgame Using Min-Max Algorithm
